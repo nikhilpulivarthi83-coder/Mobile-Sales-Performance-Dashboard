@@ -27,7 +27,7 @@ An end-to-end data analytics project exploring mobile phone sales performance ac
 - **Business Intelligence:** Power BI Desktop (DAX & Power Query)
 
 ## 📁 Repository Structure
-- `Mobile_Sales.xlsx` — Cleaned Excel Dataset
-- `mobile sales ...sql` — Structured SQL Analysis Queries
-- `MOBILES SALES PERFORMANCE DASHBOARD POWERBI.pbix` — Interactive Power BI Dashboard
-- `Screenshot 2026-10-05 141234.png` — Dashboard Visual Preview
+- [Mobile_Sales.xlsx](Mobile_Sales.xlsx) — Cleaned Excel Dataset
+- [mobile sales ...sql](mobile%20sales%20...sql) — Structured SQL Analysis Queries
+- [MOBILES SALES PERFORMANCE DASHBOARD POWERBI.pbix](MOBILES%20SALES%20PERFORMANCE%20DASHBOARD%20POWERBI.pbix) — Interactive Power BI Dashboard
+- [Screenshot 2026-10-05 141234.png](Screenshot%202026-10-05%20141234.png) — Dashboard Visual Preview
