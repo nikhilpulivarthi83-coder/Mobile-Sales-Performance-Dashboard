@@ -4,7 +4,7 @@
 ![Dashboard Preview](Screenshot%202026-10-05%20141234.png)
 
 ## 📌 Executive Summary
-An end-to-end data analytics project exploring mobile phone sales performance across top brands (Apple, Samsung, OnePlus, Vivo, Xiaomi), payment channels, regional locations, and customer demographics.
+An end-to-end data analytics project exploring mobile phone sales performance across top brands (Apple, Samsung, OnePlus, Vivo, Xiaomi), payment channels, regional locations, and customer demographics covering 4 years of historical data from **2021 to 2024 (Oct 2021 – Oct 2024)**.
 
 ## ⚙️ End-to-End Data Pipeline
 1. **Data Ingestion & Cleaning (Excel):** Performed initial schema validation, removed duplicate entries, and cleaned raw sales records.
